@@ -1,10 +1,12 @@
 # Simulated-Annealing-Travelling-Salesman
-Simulated Annealing Heuristic Solution to the Travelling Salesman Problem
+Simulated Annealing for Disaster Management.
 
 The input for this program is given by a text file which contains a different integer on each line
-The first integer is read as an x-coordinate of a city, and the second as its y-coordinate pair.
+The first integer is read as an x-coordinate of a city, and the second as its y-coordinate pair. This is intended to represent longitude and latitutde coordinates of victims in a rescure sitiuation.
 
 The program will continue to read through coordinate pairs until the end of the file.
+
+The program will then calculate the most efficent recovery path.
 
 Ex:
 
