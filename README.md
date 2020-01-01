@@ -1,4 +1,4 @@
-# Simulated-Annealing-Travelling-Salesman
+# Simulated-Annealing-For-Disaster-Management
 Simulated Annealing for Disaster Management.
 
 The input for this program is given by a text file which contains a different integer on each line
